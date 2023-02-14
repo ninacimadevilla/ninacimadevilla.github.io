@@ -101,6 +101,9 @@ body {
 
 
 /**/
+#container{
+    display:flex;   
+}
 #leftContainer{
     float: left;
     width: 50%;    
