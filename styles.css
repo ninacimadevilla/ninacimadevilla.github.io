@@ -29,13 +29,13 @@ body {
 
    
 }*/
-#header {
+#menu {
     background-color: white;
     color: black;
     height: 60px;
 }
 
-#container {
+#header {
     position: relative;
     display: grid;
     grid-template-columns: auto auto auto;
