@@ -35,7 +35,7 @@ body {
     height: 60px;
 }
 
-#content {
+#container {
     position: relative;
     display: grid;
     grid-template-columns: auto auto auto;
@@ -103,17 +103,17 @@ body {
 /**/
 #leftContainer{
     float: left;
-    width: 50%;
+    width: 50%;    
+     height: 100%;
 }
 
 #rightContainer {
+     height: 100%;
     float: right;
     width: 50%;
 }
 
-#next1{
-   height: 300px;
-}
-#first{
-    height: 100%;
+#content{   
+   height: 400px;
+    width: 100%
 }
