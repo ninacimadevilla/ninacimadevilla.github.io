@@ -119,7 +119,8 @@ body {
 #content{   
    height: min-content;
     width: 100%;
-    margin: 10%;
+    margin: 5%;
+    padding:5%;
 }
 h3{
     text-align:center;
