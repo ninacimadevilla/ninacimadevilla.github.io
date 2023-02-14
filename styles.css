@@ -103,6 +103,9 @@ body {
 /**/
 #container{
     display:flex;   
+    
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #leftContainer{
     float: left;
@@ -121,10 +124,9 @@ body {
     width: 100%;
     margin-bottom:40px;
     margin-top:40px;
-    margin-left: 20%;
-    margin-right: 20%;
 }
-#content>h3{
+h3{
     text-align:center;
     text-decoration:underline;
+    
 }
